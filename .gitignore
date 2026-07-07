@@ -26,6 +26,8 @@ pip-log.txt
 *.pkl
 *.joblib
 dataset/
+*.png
+*.tiff
 
 
 
