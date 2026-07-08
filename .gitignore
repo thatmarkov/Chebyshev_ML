@@ -19,7 +19,7 @@ pip-log.txt
 *.swp
 *.swo
 
-# Данные
+# пїЅпїЅпїЅпїЅпїЅпїЅ
 *.csv
 *.xlsx
 *.h5
@@ -28,9 +28,11 @@ pip-log.txt
 dataset/
 *.png
 *.tiff
+*.pth
 
 
-
-# Прочее
+# пїЅпїЅпїЅпїЅпїЅпїЅ
 .DS_Store
 Thumbs.db
+
+*.pth
